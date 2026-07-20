@@ -1,0 +1,2 @@
+path,group,mean_val,std_val,rmse_abs,rmse_rel,ssim_value,mean_shift,usdsai_value
+outputs/pipeline/run_20260719_232223/filters/mean/cistosGoldStd_run_20260719_232223_f3p5MHz_n01_mean.tif,mean,129.503568,8.134750,19.741733,15.238353,83.715295,-0.351150,3.583685

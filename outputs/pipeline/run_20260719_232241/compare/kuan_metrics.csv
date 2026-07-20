@@ -1,0 +1,2 @@
+path,group,mean_val,std_val,rmse_abs,rmse_rel,ssim_value,mean_shift,usdsai_value
+outputs/pipeline/run_20260719_232241/filters/kuan/cistosGoldStd_run_20260719_232241_f3p5MHz_n01_kuan.tif,kuan,126.180419,10.361045,19.532415,15.076784,73.514745,-0.283764,3.693956

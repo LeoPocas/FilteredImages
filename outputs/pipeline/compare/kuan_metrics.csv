@@ -1,0 +1,2 @@
+path,group,mean_val,std_val,rmse_abs,rmse_rel,ssim_value,mean_shift,usdsai_value
+outputs/pipeline/filters/kuan/speckle_simulation_kuan.tif,kuan,129.929527,7.597973,19.379736,14.958933,73.031338,-0.288096,5.049724

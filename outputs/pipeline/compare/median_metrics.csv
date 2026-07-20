@@ -1,0 +1,2 @@
+path,group,mean_val,std_val,rmse_abs,rmse_rel,ssim_value,mean_shift,usdsai_value
+outputs/pipeline/filters/median/speckle_simulation_median.tif,median,135.147190,7.611099,19.632653,15.154156,81.455111,-4.621956,4.552490

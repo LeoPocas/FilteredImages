@@ -1,0 +1,2 @@
+path,group,mean_val,std_val,rmse_abs,rmse_rel,ssim_value,mean_shift,usdsai_value
+outputs/pipeline/filters/lee/speckle_simulation_lee.tif,lee,129.928412,7.731991,19.481521,15.037499,72.177332,-0.267848,5.063414

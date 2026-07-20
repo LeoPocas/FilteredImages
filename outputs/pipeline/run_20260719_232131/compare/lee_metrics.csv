@@ -1,0 +1,2 @@
+path,group,mean_val,std_val,rmse_abs,rmse_rel,ssim_value,mean_shift,usdsai_value
+outputs/pipeline/run_20260719_232131/filters/lee/cistosGoldStd_run_20260719_232131_f3p5MHz_n01_lee.tif,lee,126.512489,9.634214,19.207529,14.826009,72.545623,-0.434560,4.137246
